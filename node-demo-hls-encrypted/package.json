@@ -1,0 +1,5 @@
+{
+    "description": "demo for playing encrypted hls-media",
+    "name": "demo-hls-encrypted",
+    "version": "0.0.1"
+}
